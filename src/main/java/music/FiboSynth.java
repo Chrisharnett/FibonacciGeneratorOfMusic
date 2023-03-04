@@ -34,7 +34,7 @@ public class FiboSynth {
         JFrame frame = new JFrame("The Fibonacci Synthesizer");
         JPanel pane = new JPanel();
         JButton button1 = new JButton("Note");
-        JButton button2 = new JButton("Note");
+        JButton button2 = new JButton("Another Note");
         frame.getContentPane().add(pane);
         pane.add(button1);
         pane.add(button2);
